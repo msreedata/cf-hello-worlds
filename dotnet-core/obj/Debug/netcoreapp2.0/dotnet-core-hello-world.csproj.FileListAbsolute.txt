@@ -1,0 +1,11 @@
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\bin\Debug\netcoreapp2.0\dotnet-core-hello-world.deps.json
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\bin\Debug\netcoreapp2.0\dotnet-core-hello-world.runtimeconfig.json
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\bin\Debug\netcoreapp2.0\dotnet-core-hello-world.runtimeconfig.dev.json
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\bin\Debug\netcoreapp2.0\dotnet-core-hello-world.dll
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\bin\Debug\netcoreapp2.0\dotnet-core-hello-world.pdb
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.csprojAssemblyReference.cache
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.csproj.CoreCompileInputs.cache
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.AssemblyInfoInputs.cache
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.AssemblyInfo.cs
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.dll
+C:\DataStore\pro\cf-hello-worlds\dotnet-core\obj\Debug\netcoreapp2.0\dotnet-core-hello-world.pdb
